@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2023, Vincent M. Le Corre
+Copyright (c) 2023, Vincent M. Le Corre, Albert These
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
