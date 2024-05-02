@@ -1,5 +1,5 @@
 # Beginner’s guide to visual analysis of perovskite and organic solar cell current density-voltage characteristics
-Drift-diffusion simulations in support of the 'Beginner’s guide to visual analysis of perovskite and organic solar cell current density-voltage characteristics'
+Drift-diffusion simulations in support of the 'Beginner’s guide to visual analysis of perovskite and organic solar cell current density-voltage characteristics', as published in Advanced Energy Materials: https://doi.org/10.1002/aenm.202400055
 
 ## Description
 This repository includes the code utilized in the research paper titled "Beginner’s guide to visual analysis of perovskite and organic solar cell current density-voltage characteristics." Here, you'll find resources to replicate all simulations featured in the academic publication.
